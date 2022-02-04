@@ -1,3 +1,5 @@
 File 2.
+# will keep both of the following:
 New line.
 (from t2)
+Add another line.
